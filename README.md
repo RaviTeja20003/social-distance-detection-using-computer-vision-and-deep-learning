@@ -13,11 +13,18 @@ This project detects the social distance in public, and if the distance between 
 >
 
 4) requirements
+>jupyter notebook
 >install opencv,
 >load the xml and bin files path of pretrained model correctly,
 >upload the video path.
 
-# Image of an social distance detection with OpenVINO 
->FPS can be seen on the top left, 
->number of violations in the bottom
-![Screenshot 2023-06-21 164605](https://github.com/RaviTeja20003/social-distance-detection-using-computer-vision-and-openvino/assets/103447565/e8356b97-8f05-4d6d-8e95-099eb2c0a212)
+# Image of social distance detection with OpenVINO 
+1) check the FPS on top left 
+2) check the number of violations in the bottom
+![Capture](https://github.com/RaviTeja20003/social-distance-detection-using-computer-vision-and-openvino/assets/103447565/59c473c1-2786-47b7-aece-660d893a528f)
+
+# Image of social distance detection witout OpenVINO
+1) check the FPS on top left
+2) check the number of violations in the bottom
+![Capture](https://github.com/RaviTeja20003/social-distance-detection-using-computer-vision-and-openvino/assets/103447565/cf1d2f37-3df5-42e3-8ded-284e84d85216)
+
