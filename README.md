@@ -11,7 +11,7 @@ This project detects the social distance in public, and if the distance between 
 >This is a person detector that is based on MobileNetV2 backbone with two SSD heads from 1/16 and 1/8 scale feature maps and clustered prior boxes for 512x512 resolution.
 
 4) requirements
->install opencv
->load the xml and bin files path of pretrained model correctly
->upload the video path
+>install opencv,
+>load the xml and bin files path of pretrained model correctly,
+>upload the video path.
 
