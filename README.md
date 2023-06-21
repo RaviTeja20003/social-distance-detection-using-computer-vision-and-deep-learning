@@ -17,3 +17,7 @@ This project detects the social distance in public, and if the distance between 
 >load the xml and bin files path of pretrained model correctly,
 >upload the video path.
 
+# Image of an social distance detection with OpenVINO 
+>FPS can be seen on the top left, 
+>number of violations in the bottom
+![Screenshot 2023-06-21 164605](https://github.com/RaviTeja20003/social-distance-detection-using-computer-vision-and-openvino/assets/103447565/e8356b97-8f05-4d6d-8e95-099eb2c0a212)
