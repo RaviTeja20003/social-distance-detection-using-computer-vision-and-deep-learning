@@ -7,8 +7,10 @@ This project detects the social distance in public, and if the distance between 
 >https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/download.html?ENVIRONMENT=DEV_TOOLS&OP_SYSTEM=WINDOWS&VERSION=v_2023_0&DISTRIBUTION=PIP
 
 3)download Intel OpenVINO's toolkit pretrained model:
->person-detection-0202
+>person-detection-0202,
 >This is a person detector that is based on MobileNetV2 backbone with two SSD heads from 1/16 and 1/8 scale feature maps and clustered prior boxes for 512x512 resolution.
+>https://docs.openvino.ai/2022.3/omz_tools_downloader.html
+>
 
 4) requirements
 >install opencv,
